@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **s-yeoyul/s-yeoyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![s-yeoyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-yeoyul&show_icons=true&theme=dark)
 -->
 
-![s-yeoyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-yeoyul&show_icons=true&theme=dark)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=s_yeoyul)](https://solved.ac/s_yeoyul)
